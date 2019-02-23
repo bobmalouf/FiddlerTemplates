@@ -1,0 +1,26 @@
+{
+         "subProcessCategory": "Consult Review Process",
+         "subProcessTasks": [
+            {
+               "taskId": "",
+               "taskTitle": "Identify Consultant",
+               "taskDescription": "Contact Consulting firm",
+               "taskStatusHistory": [],
+               "taskRoles": [
+                  "Project Manager"
+               ],
+               "taskApplicationURI": "http://acme.MeetingManagement.app/"
+            },
+            {
+               "taskId": "",
+               "taskTitle": "Discuss with consultant",
+               "taskDescription": "Get their input",
+
+               "taskStatusHistory": [],
+               "taskRoles": [
+                  "Technology Reviewer"
+               ],
+               "taskApplicationURI": "http://acme.DocumentRepositoryUpload.app/"
+            }
+         ]
+      }
