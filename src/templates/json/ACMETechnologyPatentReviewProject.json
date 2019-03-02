@@ -10,7 +10,7 @@
          "subProcessTasks": [
             {
                "taskId": "",
-               "taskTitle": "Process documents and assign project manager",
+               "taskTitle": "Process documents and assign project manager.",
                "taskDescription": "Confirm patent has all required documents and validate metadata in repository",
                "taskReferenceList": [],
                "taskStatusHistory": [],
