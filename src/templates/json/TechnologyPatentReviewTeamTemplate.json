@@ -1,7 +1,4 @@
 {
-   "teamId":"",
-   "teamTitle":"ACME Technology Patent Review Team",
-   "teamDescription":"Team to Review Technology Patents Submitted to ACME, Inc.",
    "teamRoleList":[
       {
          "teamRole":"Document Officer",
